@@ -1,3 +1,4 @@
+<textarea name="msg" cols="25" rows="5"></textarea>
 DayZ Reality Private Server
 =========================
 
